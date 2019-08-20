@@ -1,7 +1,7 @@
 ## Mary Ellen Teaches
 
 Hi, I'm Mary Ellen Bowman. I'm a Senior Backend Java Developer who is also a LinkedIn Learning Author/Instructor.
-![Image](Mary_Ellen_Bowman.jpeg)
+
 
 ### Markdown
 
