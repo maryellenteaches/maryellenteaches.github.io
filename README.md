@@ -1,5 +1,3 @@
----
-title: Yikes
 
 ## Mary Ellen Teaches
 
