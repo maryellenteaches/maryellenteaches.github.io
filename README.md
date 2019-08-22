@@ -1,6 +1,6 @@
-## ![Image](action.png){:height="80px" width="80px"} Welcome to "Mary Ellen Teaches", on GitHub 
+## [![Image](action.png){:height="80px" width="80px"}](https://maryellenteaches.github.io/action.png) Welcome to "Mary Ellen Teaches", on GitHub 
 #### Mary Ellen Bowman's Backend Java Development Knowledge-Share Site
-- [LinkedIn Learning Author Page](https://www.linkedin.com/learning/instructors/mary-ellen-bowman "Mary Ellen's LinkedIn Page").
+- [LinkedIn Learning Author Page](https://www.linkedin.com/learning/instructors/mary-ellen-bowman "Mary Ellen's LinkedIn Page")
 - [Live Interview](http://bit.ly/MaryEllenBowman "Live Interview with Mary Ellen")
 - [LinkedIn Profile](https://www.linkedin.com/in/mebowman/ "Mary Ellen's LinkedIn Page") 
 
