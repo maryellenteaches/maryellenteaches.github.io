@@ -21,5 +21,9 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 [![Image](interview.png){:height="300px" width="500px"}](https://linkedin-learning.pxf.io/MV9vN)
 
 [LinkedIn Profile](https://www.linkedin.com/in/mebowman/ "Mary Ellen's LinkedIn Page") 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mebowman"><a class="LI-simple-link" href='https://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
+
 
 <a href="https://twitter.com/MEllenBowman?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MEllenBowman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
