@@ -1,4 +1,4 @@
-### Welcome to "Mary Ellen Teaches", on GitHub, a backend Java Development Knowledge-Share site.
+### "Mary Ellen Teaches" Java Software Development.
 
 #### Become A Spring Developer with LinkedIn Learning
 Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [See the Course List](https://linkedin-learning.pxf.io/1kmKB).
