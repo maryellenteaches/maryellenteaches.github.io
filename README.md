@@ -18,6 +18,8 @@ Mary Ellen Bowman is a Software Development Instructor and Author who has over 2
 Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful WebServices, AWS Lambda, DynamoDb, Agile Software Development, Javascript, JSON, Tomcat, UML, Webservices, Servlets, software development, mentoring, formal instruction. 
 <a href="https://twitter.com/MEllenBowman?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MEllenBowman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mebowman"><a class="LI-simple-link" href='https://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
+
 **Live Interview @ LinkedIn Learning Studios**
-[![Image](interview.png){:height="200px" width="400px"}](https://linkedin-learning.pxf.io/MV9vN)<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mebowman"><a class="LI-simple-link" href='https://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
+[![Image](interview.png){:height="200px" width="400px"}](https://linkedin-learning.pxf.io/MV9vN)
 
