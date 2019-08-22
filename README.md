@@ -16,9 +16,10 @@ Coding to databases—which often involves the use of boilerplate code that's di
 Mary Ellen Bowman is a Software Development Instructor and Author who has over 25 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers.
 Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful WebServices, AWS Lambda, DynamoDb, Agile Software Development, Javascript, JSON, Tomcat, UML, Webservices, Servlets, software development, mentoring, formal instruction. 
 
-Live Interview
+**Live Interview @ LinkedIn Learning Studios**
+
 [![Image](interview.png){:height="300px" width="500px"}](https://linkedin-learning.pxf.io/MV9vN)
 
 [LinkedIn Profile](https://www.linkedin.com/in/mebowman/ "Mary Ellen's LinkedIn Page") 
 
-[Twitter: @MEllenBowman](https://twitter.com/MEllenBowman "Mary Ellen's Twitter")
+<a href="https://twitter.com/MEllenBowman?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MEllenBowman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
