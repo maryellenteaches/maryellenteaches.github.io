@@ -1,4 +1,4 @@
-# ![Image](action.png){:height="100px" width="100px"}  Mary Ellen Teaches 
+# ![Image](action.png){:height="100px" width="100px"}  Welcome to _Mary Ellen Teaches_ 
 
 
 Hi, I'm Mary Ellen Bowman. I'm a Senior Backend Java Developer who is also a LinkedIn Learning Author/Instructor.
