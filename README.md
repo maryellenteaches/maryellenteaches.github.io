@@ -1,4 +1,4 @@
-###  Mary Ellen Teaches ![Image](Mary_Ellen_Bowman.jpeg){:height="28px" width="28px"}
+###  Mary Ellen Teaches ![Image](action.png){:height="32px" width="32px"}
 
 
 Hi, I'm Mary Ellen Bowman. I'm a Senior Backend Java Developer who is also a LinkedIn Learning Author/Instructor.
