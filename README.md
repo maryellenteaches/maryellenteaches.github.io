@@ -1,4 +1,4 @@
-![Image](action.png){:height="32px" width="32px"}  
+![Image](action.png){:height="100px" width="100px"}  
 # Mary Ellen Teaches 
 
 
