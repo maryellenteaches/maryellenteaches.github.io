@@ -1,4 +1,4 @@
-# ![Image](action.png){:height="100px" width="100px"}  Welcome to Mary Ellen Teaches, hosted on GitHub 
+# ![Image](action.png){:height="100px" width="100px"}  Welcome to Mary Ellen Teaches, on GitHub 
 
 
 Hi, I'm Mary Ellen Bowman. I'm a Senior Backend Java Developer who is also a LinkedIn Learning Author/Instructor.
