@@ -1,8 +1,11 @@
 # ![Image](action.png){:height="100px" width="100px"}  Welcome to Mary Ellen Teaches, on GitHub 
 [Mary Ellen Bowman](https://www.linkedin.com/in/mebowman/ "Mary Ellen's LinkedIn Page")is a Senior Backend Java Developer and [LinkedIn Learning Author/Instructor](https://www.linkedin.com/learning/instructors/mary-ellen-bowman "Mary Ellen's LinkedIn Page").
-[Live Interview with Mary Ellen](http://bit.ly/MaryEllenBowman "Live Interview with Mary Ellen")
 
-## LinkedIn Learning Courses -  available with free 30 day subscription or a-la-cart ownership
+- [Watch the Live Interview](http://bit.ly/MaryEllenBowman "Live Interview with Mary Ellen")
+
+## LinkedIn Learning Courses Available now
+-  Free 30 day subscription or a-la-cart ownership
+
 ### [Creating Your First RESTful Spring Boot Microservice with JPA](http://bit.ly/SpringData)
 ### [Extending, Securing and Dockerizing Spring Boot Microservices](http://bit.ly/SpringData)
 ### [Spring:Spring Data](http://bit.ly/SpringData)
