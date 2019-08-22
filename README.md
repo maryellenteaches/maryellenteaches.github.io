@@ -1,3 +1,4 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ### "Mary Ellen Teaches" Java Software Development.
 
 #### Become A Spring Developer with LinkedIn Learning
@@ -19,7 +20,7 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 
 **Live Interview @ LinkedIn Learning Studios**
 [![Image](interview.png){:height="300px" width="500px"}](https://linkedin-learning.pxf.io/MV9vN)
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mebowman"><a class="LI-simple-link" href='https://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
 
 
