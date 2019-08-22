@@ -1,5 +1,5 @@
 ## ![Image](action.png){:height="80px" width="80px"} Welcome to "Mary Ellen Teaches", on GitHub 
-##### Mary Ellen Bowman's Backend Java Development Knowledge-Share Site
+#### Mary Ellen Bowman's Backend Java Development Knowledge-Share Site
 - [LinkedIn Learning Author Page](https://www.linkedin.com/learning/instructors/mary-ellen-bowman "Mary Ellen's LinkedIn Page").
 - [Live Interview](http://bit.ly/MaryEllenBowman "Live Interview with Mary Ellen")
 - [LinkedIn Profile](https://www.linkedin.com/in/mebowman/ "Mary Ellen's LinkedIn Page") 
@@ -14,41 +14,6 @@ Learn how to extend, refine, harden, test, and "dockerize" your Spring Boot micr
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now to get a free 30-day trail](http://bit.ly/SpringData).
 
 
-
-
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maryellenteaches/maryellenteaches.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
