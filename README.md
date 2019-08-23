@@ -1,7 +1,7 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ### Mary Ellen Teaches...Java Software Development.
 #### [![Image](LearningPath.png){:height="100px" width="200px"}   Become A Spring Developer](https://linkedin-learning.pxf.io/1kmKB)
-Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. The framework's core features can be used by any Java application and are ideal for enterprise and web app development. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. This path requires basic fluency in Java, covered in our Become a Java Programmer learning path. [See the LinkedIn Learning Course List](https://linkedin-learning.pxf.io/1kmKB).
+Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](https://linkedin-learning.pxf.io/1kmKB).
 
 #### [![Image](creating.png){:height="100px" width="200px"}   Creating Your First RESTful Spring Boot Microservice with JPA](https://linkedin-learning.pxf.io/Wz1Pn)
 Turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. This course is intended for experienced Java developers who want to rapidly build microservices that connect with relational databases via the Java Persistence API (JPA). [Watch now for free](https://linkedin-learning.pxf.io/Wz1Pn) (with LinkedIn Learning 30 day trial).
