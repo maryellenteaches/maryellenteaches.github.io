@@ -20,7 +20,9 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mebowman"><a class="LI-simple-link" href='https://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
 
+
 ### Live Interviews @ LinkedIn Learning Studios
+
 
 #### Career Clinic: Developer Insights - Mary Ellen Bowman
 
@@ -29,3 +31,4 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 #### Career Clinic: Developer Insights - Favorite gadgets/tech (featured)
 
 [![Image](gadgets.png){:height="200px" width="400px"}](https://linkedin-learning.pxf.io/QX5Zo)
+
