@@ -1,6 +1,6 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="pull-right">[![Image](Lil.png)](https://linkedin-learning.pxf.io/KGnQz)</div>
 ### Mary Ellen Teaches...Java Software Development.
+#####[![Image](Lil.png)](https://linkedin-learning.pxf.io/KGnQz)
 #### [![Image](LearningPath.png){:height="100px" width="200px"}   Become A Spring Developer](https://linkedin-learning.pxf.io/1kmKB)
 Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](https://linkedin-learning.pxf.io/1kmKB).
 #### [![Image](creating.png){:height="100px" width="200px"}   Creating Your First RESTful Spring Boot Microservice with JPA](https://linkedin-learning.pxf.io/Wz1Pn)
