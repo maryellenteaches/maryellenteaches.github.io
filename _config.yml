@@ -1,3 +1,4 @@
 markdown: kramdown
 theme: jekyll-theme-cayman
 title: Mary Ellen Teaches
+description: spring, mvc, spring-data-repositories, jpa, mongodb, reactive, rest, jdbc, apis docker 
