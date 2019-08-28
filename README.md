@@ -32,6 +32,6 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 [![Image](gadgets.png){:height="200px" width="400px"}](https://linkedin-learning.pxf.io/QX5Zo)
 
 ### Learner Feedback
-"Just finished your course **Creating Your First RESTful Spring Boot Microservice with JPA**. Your explanation of the topics were very clear and concise. You stayed on topic, gave just enough nitty-gritty without overexplaining and wasting time on irrelevant. One of the few courses I didn't have to fast-forward to find useful parts :) I really got boost to some topic areas I've been struggling with in my Spring project. I'll most definitely also watch your recently published course about extending, securing and dockerizing the microservices - exactly what I need to do next with my own project.
+"Just finished your course **Creating Your First RESTful Spring Boot Microservice with JPA**. Your explanation of the topics were very clear and concise. You stayed on topic, gave just enough nitty-gritty without overexplaining and wasting time on irrelevant. One of the few courses I didn't have to fast-forward to find useful parts :) I really got boost to some topic areas I've been struggling with in my Spring project. I'll most definitely also watch your recently published course **Extending, Securing and Dockerizing Spring Boot Microservices** - exactly what I need to do next with my own project.
 Congrats and big thanks for being a great instructor!"
 
