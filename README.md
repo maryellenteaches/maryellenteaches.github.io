@@ -1,7 +1,9 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ### [![Image](creating.png){:height="100px" width="200px"}   Creating Your First RESTful Spring Boot Microservice with JPA](https://linkedin-learning.pxf.io/Wz1Pn)
-Turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. This course is intended for experienced Java developers who want to rapidly build microservices that connect with relational databases via the Java Persistence API (JPA). [Watch now for free](https://linkedin-learning.pxf.io/Wz1Pn) (with LinkedIn Learning 30 day trial).
 **39,571 Viewers & 2,602 Likes** 
+
+Turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. This course is intended for experienced Java developers who want to rapidly build microservices that connect with relational databases via the Java Persistence API (JPA). [Watch now for free](https://linkedin-learning.pxf.io/Wz1Pn) (with LinkedIn Learning 30 day trial).
+
 ### [![Image](extending.png){:height="100px" width="200px"}   Extending, Securing and Dockerizing Spring Boot Microservices ](https://linkedin-learning.pxf.io/3aGqA)
 Learn how to extend, refine, harden, test, and "dockerize" your Spring Boot microservices, and turn them into production-ready applications. [Watch now for free](https://linkedin-learning.pxf.io/3aGqA) (with LinkedIn Learning 30 day trial).
 **9,088 Viewers & 632 Likes**
