@@ -2,17 +2,17 @@
 <meta name='ir-site-verification-token' value='-693129333' />
 ### [![Image](creating2019.png){:height="100px" width="200px"}    Creating Your First Spring Boot Microservice (Dec 2019)](http://linkedin-learning.pxf.io/KL5qy)
 Turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. This course is intended for experienced Java developers who want to rapidly build microservices that connect with relational databases via JPA. Here, Mary Ellen Bowman walks you through a step-by-step process for building a microservice with an exposed RESTful API featuring HATEOAS, paging, and sorting. Learn about technologies such as Spring Boot, Spring Data JPA, and Spring Data REST, and see how they all come together into smart and elegant solutions. To wrap up, Mary Ellen guides developers in migrating a microservice to a MongoDB data source. [Watch now for free](http://linkedin-learning.pxf.io/KL5qy) (with LinkedIn Learning 30 day trial).
-**1,363 Viewers**
+**2,111 Viewers**
 
 ### [![Image](extending.png){:height="100px" width="200px"}   Extending, Securing and Dockerizing Spring Boot Microservices ](http://linkedin-learning.pxf.io/3aGqA)
 Learn how to extend, refine, harden, test, and "dockerize" your Spring Boot microservices, and turn them into production-ready applications. [Watch now for free](http://linkedin-learning.pxf.io/3aGqA) (with LinkedIn Learning 30 day trial).
-**12,674 Viewers**
+**12,972 Viewers**
 ### [![Image](SpringData.png){:height="100px" width="200px"}   Spring:Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now for free](https://linkedin-learning.pxf.io/kGoYL) (with LinkedIn Learning 30 day trial).
-**16,713 Viewers**
+**16,770 Viewers**
 ### [![Image](creating.png){:height="100px" width="200px"}   Creating Your First RESTful Spring Boot Microservice with JPA(2016)](http://linkedin-learning.pxf.io/Wz1Pn)
 The original course to turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. . [Watch now for free](http://linkedin-learning.pxf.io/Wz1Pn) (with LinkedIn Learning 30 day trial).
-**39,811 Viewers**
+**35,442 Viewers**
 ### [![Image](LearningPath.png){:height="100px" width="200px"}   Become A Spring Developer](http://linkedin-learning.pxf.io/1kmKB)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Image](Lil.png){:height="30px" width="120px"}](http://linkedin-learning.pxf.io/KGnQz)
 Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](http://linkedin-learning.pxf.io/1kmKB).
 ## [![Image](action.png){:height="100px" width="100px"}](http://maryellenteaches.github.io/action.png)   About Mary Ellen 
