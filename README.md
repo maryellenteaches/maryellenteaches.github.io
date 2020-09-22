@@ -10,11 +10,9 @@ Learn how to extend, refine, harden, test, and "dockerize" your Spring Boot micr
 ### [![Image](SpringData.png){:height="100px" width="200px"}   Spring:Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now for free](https://linkedin-learning.pxf.io/kGoYL) (with LinkedIn Learning 30 day trial).
 **16,770 Viewers**
-[//]: # was 16,105 on April 6
 ### [![Image](creating.png){:height="100px" width="200px"}   Creating Your First RESTful Spring Boot Microservice with JPA(2016)](http://linkedin-learning.pxf.io/Wz1Pn)
 The original course to turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. . [Watch now for free](http://linkedin-learning.pxf.io/Wz1Pn) (with LinkedIn Learning 30 day trial).
 **35,442 Viewers**
-[//]: # was 33,454 on April 6
 ### [![Image](LearningPath.png){:height="100px" width="200px"}   Become A Spring Developer](http://linkedin-learning.pxf.io/1kmKB)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Image](Lil.png){:height="30px" width="120px"}](http://linkedin-learning.pxf.io/KGnQz)
 Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](http://linkedin-learning.pxf.io/1kmKB).
 ## [![Image](action.png){:height="100px" width="100px"}](http://maryellenteaches.github.io/action.png)   About Mary Ellen 
