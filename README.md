@@ -1,6 +1,6 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <meta name='ir-site-verification-token' value='-693129333' />
-### [![Image](SpringData.png){:height="100px" width="200px"}   Spring:Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
+### [![Image](SpringData.png){:height="100px" width="200px"}   Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now for free](https://linkedin-learning.pxf.io/kGoYL) (with LinkedIn Learning 30 day trial).
 ** Watched by 20K+ Learners since the original version in 2016, updated in October 2019 **
 
