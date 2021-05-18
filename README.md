@@ -38,5 +38,5 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 Congrats and big thanks for being a great instructor!"
 
 ##### Legal
-Note: Embedded LinkedIn learning links are tracked to an affiliate program account.
+Note: This website contains affiliate links and I will be compensated if you make a purchase after clicking on my links. LinkedIn learning links are tracked to an affiliate program account.
 
