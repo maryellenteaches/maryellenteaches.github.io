@@ -1,5 +1,6 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <meta name='ir-site-verification-token' value='-693129333' />
+####### This website contains affiliate links where I am compensated upon purchase.
 ### [![Image](SpringData.png){:height="100px" width="200px"}   Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now for free](https://linkedin-learning.pxf.io/kGoYL) (with LinkedIn Learning 30 day trial).
 **Watched by 20K+ Learners since the original version in 2016, updated in October 2019**
@@ -36,7 +37,4 @@ Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful Web
 ### Learner Feedback
 "Just finished your course **Creating Your First RESTful Spring Boot Microservice with JPA**. Your explanation of the topics were very clear and concise. You stayed on topic, gave just enough nitty-gritty without overexplaining and wasting time on irrelevant. One of the few courses I didn't have to fast-forward to find useful parts :) I really got boost to some topic areas I've been struggling with in my Spring project. I'll most definitely also watch your recently published course **Extending, Securing and Dockerizing Spring Boot Microservices** - exactly what I need to do next with my own project.
 Congrats and big thanks for being a great instructor!"
-
-##### Legal
-Note: This website contains affiliate links and I will be compensated if you make a purchase after clicking on my links. LinkedIn learning links are tracked to an affiliate program account.
 
