@@ -3,15 +3,15 @@
 ###### *contains affiliate links - author compensated upon purchase*
 ## [![Image](SpringData.png){:height="100px" width="200px"}   Spring Data 2](https://linkedin-learning.pxf.io/kGoYL)
 Coding to databases—which often involves the use of boilerplate code that's difficult to maintain and debug—can be tedious work. Spring Data addresses these issues by abstracting data store interactions into a common repository API and eliminating boilerplate code. [Watch now for free](https://linkedin-learning.pxf.io/kGoYL) (with LinkedIn Learning 30 day trial).
-**Watched by 20K+ Learners since the original version in 2016, updated in October 2019**
+**Watched by 20K+ Learners since the original version in 2016, 28K+ since updated in October 2019**
 
 ## [![Image](creating2019.png){:height="100px" width="200px"}    Creating Your First Spring Boot Microservice](http://linkedin-learning.pxf.io/KL5qy)
 Turbocharge your back-end Java RESTful API development with Spring Boot and Spring Data technologies. This course is intended for experienced Java developers who want to rapidly build microservices that connect with relational databases via JPA. Here, Mary Ellen Bowman walks you through a step-by-step process for building a microservice with an exposed RESTful API featuring HATEOAS, paging, and sorting. Learn about technologies such as Spring Boot, Spring Data JPA, and Spring Data REST, and see how they all come together into smart and elegant solutions. To wrap up, Mary Ellen guides developers in migrating a microservice to a MongoDB data source. [Watch now for free](http://linkedin-learning.pxf.io/KL5qy) (with LinkedIn Learning 30 day trial).
-**Watched by 45K+ Learners since the original 2016 revision, new revision in December 2019**
+**Watched by 45K+ Learners since the original 2016 revision, 40K+ since new revision in December 2019**
 
 ## [![Image](extending.png){:height="100px" width="200px"}   Extending, Securing and Dockerizing Spring Boot Microservices ](http://linkedin-learning.pxf.io/3aGqA)
 Learn how to extend, refine, harden, test, and "dockerize" your Spring Boot microservices, and turn them into production-ready applications. [Watch now for free](http://linkedin-learning.pxf.io/3aGqA) (with LinkedIn Learning 30 day trial).
-**Watched by 16K+ Leaners since the original version in 2018, updated in September 2020**
+**Watched by 16K+ Leaners since the original version in 2018, 40K+ since updated in September 2020**
 
 ## [![Image](LearningPath.png){:height="100px" width="200px"} Become A Spring Developer](http://linkedin-learning.pxf.io/1kmKB)
 Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](http://linkedin-learning.pxf.io/1kmKB).
