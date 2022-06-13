@@ -30,9 +30,6 @@ Congrats and big thanks for being a great instructor!"
 ## [![Image](LearningPath.png){:height="100px" width="200px"} Become A Spring Developer](http://linkedin-learning.pxf.io/1kmKB)
 Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](http://linkedin-learning.pxf.io/1kmKB).
  
-
-<a href="https://twitter.com/MEllenBowman?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MEllenBowman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href="https://github.com/maryellenteaches" class="btn">View on GitHub</a>
- 
  
 ## About Mary Ellen 
 Mary Ellen Bowman is a Software Development Instructor and Author who has over 30 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers.
