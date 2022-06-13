@@ -1,11 +1,6 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <meta name='ir-site-verification-token' value='-693129333' />
 ###### *contains affiliate links - author compensated upon purchase*
-## About Mary Ellen 
-Mary Ellen Bowman is a Software Development Instructor and Author who has over 30 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers.
-Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful WebServices, AWS Lambda, DynamoDb, Agile Software Development, Javascript, JSON, Tomcat, UML, Webservices, Servlets, software development, mentoring, formal instruction.
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mebowman"><a class="LI-simple-link" href='http://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
 
 ### Catalog of Mary Ellen's LinkedIn Learning Courses
 All courses are free with a 30 day trial.
@@ -37,3 +32,12 @@ Spring is a popular and fast-growing application framework and inversion-of-cont
  
 
 <a href="https://twitter.com/MEllenBowman?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MEllenBowman</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <a href="https://github.com/maryellenteaches" class="btn">View on GitHub</a>
+ 
+ 
+ 
+ ## About Mary Ellen 
+Mary Ellen Bowman is a Software Development Instructor and Author who has over 30 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers.
+Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful WebServices, AWS Lambda, DynamoDb, Agile Software Development, Javascript, JSON, Tomcat, UML, Webservices, Servlets, software development, mentoring, formal instruction.
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mebowman"><a class="LI-simple-link" href='http://www.linkedin.com/in/mebowman?trk=profile-badge'>Mary Ellen Bowman</a></div>
+
