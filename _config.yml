@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: MaryEllenTeaches.Me
 description: Mary Ellen Bowman is a Software Development Instructor and Author who has over 30 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers. Specialties: Java, Spring Data JPA and MongoDb, Spring Boot, Docker, RESTful WebServices, AWS Lambda, DynamoDb, Agile Software Development, Javascript, JSON, Tomcat, UML, Webservices, Servlets, software development, mentoring, formal instruction. 
 github:
