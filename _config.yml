@@ -1,7 +1,8 @@
 markdown: kramdown
 theme: jekyll-theme-minimal
 title: MaryEllenTeaches.Me
+logo: action.png
 description: LinkedIn Learning Course Catalog by Mary Ellen Bowman 
 github:
-  is_project_page: true
+  is_project_page: false
   repository_url: https://github.com/maryellenteaches
