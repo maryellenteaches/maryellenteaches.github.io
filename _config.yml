@@ -2,7 +2,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 title: MaryEllenTeaches.Me
 logo: action.png
-description: Mary Ellen Bowman linkedin.com/learning/instructors/mary-ellen-bowman linkedin.com/in/mebowman/
+description: Mary Ellen Bowman linkedin.com/in/mebowman/
 github:
   is_project_page: false
   is_user_page: false
