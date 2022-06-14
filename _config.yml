@@ -5,4 +5,4 @@ logo: action.png
 description: LinkedIn Learning Course Catalog by Mary Ellen Bowman 
 github:
   is_project_page: false
-  repository_url: https://github.com/maryellenteaches
+  is_user_page: false
