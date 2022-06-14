@@ -1,7 +1,7 @@
 markdown: kramdown
 theme: jekyll-theme-minimal
 title: MaryEllenTeaches.Me
-description: spring, mvc, spring-data-repositories, jpa, mongodb, reactive, rest, docker, jdbc
+description: Course catalog by Mary Ellen Bowman specializing in Java, Spring, Microservices, and Docker
 github:
   is_project_page: true
   repository_url: https://github.com/maryellenteaches
