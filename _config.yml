@@ -1,7 +1,7 @@
 markdown: kramdown
 theme: jekyll-theme-minimal
 title: MaryEllenTeaches.Me
-description: Course catalog by Mary Ellen Bowman specializing in Java, Spring, Microservices, and Docker
+description: LinkedIn Learning Course Catalog by Mary Ellen Bowman 
 github:
   is_project_page: true
   repository_url: https://github.com/maryellenteaches
