@@ -1,5 +1,8 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <meta name='ir-site-verification-token' value='-693129333' />
+
+<link rel="shortcut icon" type="image/x-icon" href="action.png" />
+
 ###### *contains affiliate links - author compensated upon purchase*
 
 ### All courses are free with a 30 day trial.
