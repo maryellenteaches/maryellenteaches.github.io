@@ -29,8 +29,8 @@
 "Just finished your course **Creating Your First RESTful Spring Boot Microservice with JPA**. Your explanation of the topics were very clear and concise. You stayed on topic, gave just enough nitty-gritty without overexplaining and wasting time on irrelevant. One of the few courses I didn't have to fast-forward to find useful parts :) I really got boost to some topic areas I've been struggling with in my Spring project. I'll most definitely also watch your recently published course **Extending, Securing and Dockerizing Spring Boot Microservices** - exactly what I need to do next with my own project.
 Congrats and big thanks for being a great instructor!"
 
-## [![Image](LearningPath.png){:height="100px" width="200px"} Become A Spring Developer](http://linkedin-learning.pxf.io/1kmKB)
-Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](http://linkedin-learning.pxf.io/1kmKB).
+## [![Image](LearningPath.png){:height="100px" width="200px"} Getting Started in Spring Development Learning Path](https://www.linkedin.com/learning/paths/getting-started-in-spring-development)
+Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](https://www.linkedin.com/learning/paths/getting-started-in-spring-development).
  
  
 ## About Mary Ellen 
