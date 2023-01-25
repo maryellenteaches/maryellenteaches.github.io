@@ -29,9 +29,12 @@
 "Just finished your course **Creating Your First RESTful Spring Boot Microservice with JPA**. Your explanation of the topics were very clear and concise. You stayed on topic, gave just enough nitty-gritty without overexplaining and wasting time on irrelevant. One of the few courses I didn't have to fast-forward to find useful parts :) I really got boost to some topic areas I've been struggling with in my Spring project. I'll most definitely also watch your recently published course **Extending, Securing and Dockerizing Spring Boot Microservices** - exactly what I need to do next with my own project.
 Congrats and big thanks for being a great instructor!"
 
-## [![Image](LearningPath.png){:height="100px" width="200px"} Getting Started in Spring Development Learning Path](https://www.linkedin.com/learning/paths/getting-started-in-spring-development)
-Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. [Course List](https://www.linkedin.com/learning/paths/getting-started-in-spring-development).
- 
+## [!Getting Started in Spring Development Learning Path](https://www.linkedin.com/learning/paths/getting-started-in-spring-development)
+Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. The framework's core features can be used by any Java application and are ideal for enterprise and web app development. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. This path requires basic fluency in Java.
+
+## [!Advance Your Java Skills Learning Path](https://www.linkedin.com/learning/paths/advance-your-java-skills)
+Advance your Java programming skills in threads, data science, and Docker. Master techniques you can use when building applications anywhere Java is used: in web, mobile, and desktop applications. This learning path is for experienced Java developers who want to deepen their Java programming skills.
+
  
 ## About Mary Ellen 
 Mary Ellen Bowman is a Software Development Instructor and Author who has over 30 years of full lifecycle software development experience in various industries including healthcare, aerospace, supply chain management, logistics, and government contracting. Recent experience in Web-Enablement using Spring (Data JPA, Boot, REST), AWS Ecosystem (Lambda, Dynamo, SQS), and Docker containers.
